@@ -22,3 +22,9 @@ Customer support ticketing system built with FastAPI + SQLite (backend) and Reac
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm dev run
